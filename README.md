@@ -1,1 +1,1 @@
-## class-inherit  [![Build status](https://ci.appveyor.com/api/projects/status/0koye0kv6uaualjo?svg=true)](https://ci.appveyor.com/project/Tatiana-Nikonova/class-inherit)
+##  class-inherit  [![Build status](https://ci.appveyor.com/api/projects/status/0koye0kv6uaualjo?svg=true)](https://ci.appveyor.com/project/Tatiana-Nikonova/class-inherit)
